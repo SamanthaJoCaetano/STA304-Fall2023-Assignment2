@@ -52,7 +52,7 @@ census_data <- read_csv("gss_clean.csv")
 # All cleaning must not be shown in the submitted pdf. 
 # Setting the cleaning chunk to include = FALSE will allow for this. 
 
-load('CES2021.RData')
+load('ces2021.RData')
 
 ## The data dictionary is found in '2021 Canadian Election Study Codebook.pdf'
 ## In the data dictionary you can find the survey questions/responses corresponding to the column names in survey_data. 
